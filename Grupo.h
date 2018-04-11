@@ -3,6 +3,7 @@
   Autor: Luis Yovany Romo
   Email: luis.romo@correounivalle.edu.co
   Fecha creación: 2018-02-09
+  Modificado por: Manuel Diaz cod. 1741652 y Jeffrey Rios cod. 1744831
   Fecha Última modificación: 2018-02-09
   Versión: 0.1
   Licencia: GPL

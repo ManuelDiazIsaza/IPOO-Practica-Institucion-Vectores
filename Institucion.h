@@ -2,6 +2,7 @@
   Archivo: Grupo.h
   Autor: Luis Yovany Romo
   Email: luis.romo@correounivalle.edu.co
+  Modificado por: Manuel Diaz cod. 1741652 y Jeffrey Rios cod. 1744831
   Fecha creación: 2018-02-09
   Fecha Última modificación: 2018-02-09
   Versión: 0.1

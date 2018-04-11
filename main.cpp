@@ -2,6 +2,7 @@
   Archivo: Main.cpp
   Autor: Luis Yovany Romo Portilla
   Email: luis.romo@correounivalle.edu.co
+  Modificado por: Manuel Diaz cod. 1741652 y Jeffrey Rios cod. 1744831
   Fecha creaciC3n: 2017-08-11
   Fecha C:ltima modificaciC3n: 2017-08-31
   VersiC3n: 0.1

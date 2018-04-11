@@ -2,6 +2,7 @@
   Archivo: Estudiante.cpp
   Autor: Luis Yovany Romo Portilla
   Email: luis.romo@correounivalle.edu.co
+  Modificado por: Manuel Diaz cod. 1741652 y Jeffrey Rios cod. 1744831
   Fecha creación: 2017-08-31
   Fecha última modificación: 2017-08-31
   Versión: 0.1
